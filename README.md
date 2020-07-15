@@ -1,7 +1,7 @@
 # webesa
 -- phpMyAdmin SQL Dump
 -- version 4.9.2
--- https://www.phpmyadmin.net/
+
 --
 -- Host: 127.0.0.1
 -- Waktu pembuatan: 23 Jun 2020 pada 02.48
